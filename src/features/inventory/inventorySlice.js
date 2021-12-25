@@ -1,4 +1,3 @@
-import { inventoryData } from '../../../data.js';
 
 export const loadData = (data) => {
   return {
